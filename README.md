@@ -1,3 +1,3 @@
 # Home
 
-[Wiki 홈](https://github.com/jameslee214/home/wiki)
+[Wiki 홈](https://github.com/jameslee214/home/wiki/home)
